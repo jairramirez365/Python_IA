@@ -7,7 +7,7 @@ El siguiente trabajo se enmarca dentro del desarrollo de la asignatura python pa
 - Aplicar adecuadamente técnicas de visualización
 - Desarrollar una capacidad crítica y conocer fuentes de información
 
-Los comentarios relacionados con el desarrollo y ejecucion de la proupesta seran bien recibidos. 
+Los comentarios relacionados con el desarrollo y ejecucion de la propuesta seran bien recibidos. 
 
 Gracias por leer 
 
